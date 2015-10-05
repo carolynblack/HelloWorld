@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Toast.makeText(view.getContext()
-                        , "You clicked me again!", Toast.LENGTH_SHORT)
+                        , "You clicked me second time!", Toast.LENGTH_SHORT)
                         .show();
             }
         });
